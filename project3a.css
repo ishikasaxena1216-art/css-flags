@@ -1,0 +1,28 @@
+#container{
+    height: 200px;
+    width: 300px;
+   background-color: red;
+   position: relative;
+}
+
+.box{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(39, 28, 198);
+    position : absolute;
+    top: 50px;
+    bottom: 50px;
+}
+
+#circle{
+    height: 90px;
+    width: 90px;
+    background-color: white;
+    border-radius: 50px;
+    z-index: 10px;
+    position: absolute;
+    top: 55px;
+    bottom: 55px;
+    right: 100px;
+    left: 100px;
+}
