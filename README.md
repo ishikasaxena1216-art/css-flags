@@ -23,6 +23,7 @@ How To Run
 
 Author
 
-Ishika Saxena
+Ishika Saxena,
+
 B.Tech CSE Student
 Learning HTML, CSS & GitHub ✨
