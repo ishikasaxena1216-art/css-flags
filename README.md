@@ -25,5 +25,6 @@ Author
 
 Ishika Saxena,
 
-B.Tech CSE Student
+B.Tech CSE Student,
+
 Learning HTML, CSS & GitHub ✨
